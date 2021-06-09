@@ -1,5 +1,9 @@
 ### Hi there 👋
-### 안녕하세요 최정우 입니다.
+### 안녕하세요 최정우 입니다!
+:office: Currently studying @ MultiCampus
+:baby_chick: novice developer
+<br>
+
 
 [![Jxnxwxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxnxwxo)](https://github.com/anuraghazra/github-readme-stats)
 
