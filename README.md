@@ -1,7 +1,10 @@
 ### Hi there 👋
 ### 안녕하세요 최정우 입니다!
 :office: Currently studying @ MultiCampus
-:baby_chick: novice developer
+:baby_chick: novice developer<br>
+평일 9am~6pm 공부중!<br>
+주말 공부+휴식!
+
 <br>
 
 
