@@ -3,7 +3,8 @@
 :office: Currently studying @ MultiCampus
 :baby_chick: novice developer<br>
 평일 9am~6pm 공부중!<br>
-주말 공부+휴식!
+세미프로젝트: aBuy(album buy, 로그인, 로그아웃, 회원가입, 앨범 주문, 장바구니 기능등)<br>
+본 프로젝트: 구상중!
 
 <br>
 
