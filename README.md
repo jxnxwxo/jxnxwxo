@@ -2,9 +2,7 @@
 ### 안녕하세요 최정우 입니다!
 :office: Currently studying @ MultiCampus
 :baby_chick: novice developer<br>
-평일 9am~6pm 공부중!<br>
-세미프로젝트: aBuy(album buy, 로그인, 로그아웃, 회원가입, 앨범 주문, 장바구니 기능등)<br>
-본 프로젝트: 구상중! (이약뭐약)
+
 
 <br>
 
