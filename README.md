@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### 안녕하세요 최정우 입니다!
-:office: Currently studying @ MultiCampus
+:office: Completed studying @ MultiCampus<br>
 :baby_chick: novice developer<br>
-
+⚔️ Java, Spring, HTML/CSS/JS
 
 <br>
 
