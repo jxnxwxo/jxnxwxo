@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### 안녕하세요 최정우 입니다!
 :office: Completed studying @ MultiCampus<br>
+💻👨🏻‍ having course at nomadcoders.co <br>
 :baby_chick: novice developer<br>
-⚔️ Java, Spring, HTML/CSS/JS
+⚔️ Java, Spring, HTML/CSS/JS, Oracle
 
 <br>
 
