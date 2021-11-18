@@ -3,7 +3,7 @@
 :office: Completed studying @ MultiCampus<br>
 💻👨🏻‍ having course at nomadcoders.co <br>
 :baby_chick: novice developer<br>
-⚔️ Java, Python, Spring, HTML/CSS/JS, Oracle
+⚔️ Java, Python, Spring, HTML/CSS/JS, Oracle<br>
 👨‍💻self taught learning: python
 
 <br>
